@@ -16,6 +16,7 @@ node_modules/
 
 # Environment
 .env
+*.env
 
 # Uploads
 uploads/
@@ -23,4 +24,6 @@ uploads/
 # OS
 Thumbs.db
 .history/
-.env
+
+#history folders
+.history

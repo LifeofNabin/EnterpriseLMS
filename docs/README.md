@@ -256,13 +256,8 @@ git commit -m "feat: initial setup"
 
 # 6. Push to GitHub
 git push -u origin feature/student-module
-That's it! You're ready to work! 🎉
 
-text
 
----
-
-This guide gives your team everything they need to use Git and GitHub properly! 📚
 
 
 

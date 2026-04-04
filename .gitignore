@@ -23,3 +23,4 @@ uploads/
 # OS
 Thumbs.db
 .history/
+.env

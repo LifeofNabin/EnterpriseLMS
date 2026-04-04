@@ -1,4 +1,5 @@
 package com.enterpriselms.backend.user.enums;
 
-public class UserStatus {
+public enum UserStatus {
+    PENDING, ACTIVE, REJECTED, PAYMENT_PENDING
 }

@@ -1,0 +1,24 @@
+# Compiled Java
+target/
+*.class
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Environment
+.env
+
+# Uploads
+uploads/
+
+# OS
+Thumbs.db

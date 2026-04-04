@@ -1,4 +1,5 @@
 package com.enterpriselms.backend.user.enums;
 
-public class StudentType {
+public enum StudentType {
+    BULK, WEBSITE
 }

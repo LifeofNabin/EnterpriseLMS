@@ -26,4 +26,4 @@ Thumbs.db
 .history/
 
 #history folders
-.history
+.history.DS_Store
